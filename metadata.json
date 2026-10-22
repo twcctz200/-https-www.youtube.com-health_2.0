@@ -1,0 +1,6 @@
+{
+  "name": "健康主播 鄭凱云 | 官方網站與社群導航",
+  "description": "電視健康主持人與暖心媽咪鄭凱云的官方專頁。分享實用親子教養、養生保健DIY、每週六首播《健康云之道》及完整社群聯絡管道。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
